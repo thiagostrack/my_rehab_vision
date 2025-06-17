@@ -13,9 +13,6 @@ Interface Intuitiva: Exibição clara de ângulos, feedback e contador de repeti
 Demonstração em Vídeo
 Assista ao vídeo abaixo para ver o MyRehabVision em ação e entender suas funcionalidades:
 
-[]([Link do seu Vídeo no YouTube/Vimeo])
-
-(Substitua [ID_DO_VIDEO] pelo ID real do seu vídeo do YouTube e [Link do seu Vídeo no YouTube/Vimeo] pelo link completo do seu vídeo. O ID do vídeo é a parte da URL depois de v= ou /).
 
 Tecnologias Utilizadas
 Python: Linguagem de programação principal.
